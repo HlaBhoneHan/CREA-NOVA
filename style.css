@@ -1,0 +1,23 @@
+* {
+  font-family: "PT Sans", sans-serif;
+}
+
+/* navbar */
+.bg-navbar {
+  background-color: #423E37;
+}
+
+.bg-navbar a {
+  color: #ffc154;
+}
+
+.active, .navbar-nav a:hover {
+  color: #ffc154 !important;
+  border-bottom: 2px solid #ffc154;
+}
+
+/* carousel */
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  /* opacity: 0.5; */
+}

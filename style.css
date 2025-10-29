@@ -7,7 +7,7 @@
   background-color: #423E37;
 }
 
-.bg-navbar a, footer a {
+.bg-navbar a, .bg-navbar a:hover, footer a {
   color: #ffc154;
 }
 
